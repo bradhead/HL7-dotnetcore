@@ -1,6 +1,6 @@
 # HL7-dotnetcore
 
-This is a fork of Effernt-Health HL7-dotnetcore, a lightweight library for building and parsing HL7 2.x messages, for .Net Standard and .Net Core. It is not tied to any particular version of HL7 nor validates against one. 
+This is a fork of [Efferent-Health HL7-dotnetcore](https://github.com/Efferent-Health/HL7-dotnetcore), a lightweight library for building and parsing HL7 2.x messages, for .Net Standard and .Net Core. It is not tied to any particular version of HL7 nor validates against one. 
 
 ## Enhancement/Changes
 
