@@ -1,7 +1,8 @@
 # HL7-dotnetcore
 
-
 This is a fork of Effernt-Health HL7-dotnetcore, a lightweight library for building and parsing HL7 2.x messages, for .Net Standard and .Net Core. It is not tied to any particular version of HL7 nor validates against one. 
+
+## Enhancement/Changes
 
 This version adds Message parsing to allow a custom MessageType starting with "Z", relaxing the requirement for it to have an event code componnent.  This was needed for HL7v2 custom messages developed for British Columbia PharmaNet Electronic prescribing.
 
